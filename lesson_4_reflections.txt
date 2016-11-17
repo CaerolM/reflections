@@ -1,2 +1,4 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-When would you want to create a remote repository rather than keeping all your work local?
+You don't want to apply the changes in the GitHub to the local repository yet and choose to delete it later on.
+And vice versa.
