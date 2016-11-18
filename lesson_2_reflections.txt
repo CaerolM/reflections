@@ -7,11 +7,6 @@ Added comment in lesson “Reflect: Staging Area”
 ===============================================
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Added comment in lesson “Reflect: Staging Area”
-===============================================
-How is the staging area different from the working directory and the repository? What value do you think it offers?
-
-
 How can you use the staging area to make sure you have one commit per logical
 change?
 
@@ -25,3 +20,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
